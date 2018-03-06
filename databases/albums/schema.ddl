@@ -1,3 +1,4 @@
+USE albums;
 DROP TABLE IF EXISTS album_scheduler_task;
 
 CREATE TABLE album_scheduler_task (
